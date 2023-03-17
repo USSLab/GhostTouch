@@ -74,7 +74,7 @@ Here are **video demos** showing the real-world impact of the GhostTouchAttack.
 # Citation
 
 ```
-
+Wang, Kai, et al. "{GhostTouch}: Targeted Attacks on Touchscreens without Physical Touch." 31st USENIX Security Symposium (USENIX Security 22). 2022.
 ```
 
 
